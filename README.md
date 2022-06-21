@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MandelBrot_Progression_tan_1](https://user-images.githubusercontent.com/16161422/174714702-bbc2e9a1-811e-48ec-9bfe-0e0a3857fb14.gif)
+
+![MandelBrot_Progression_tan_1_Cropped](https://user-images.githubusercontent.com/16161422/174715067-166e67c4-d892-4900-9a22-8a1e74cc276a.gif)
