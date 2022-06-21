@@ -2,9 +2,9 @@
 ## Feel free to poke around 🐙.
 
 Errol here! I'm a recent graduate in Computer Science and Mathematics from Whitman College.
-I'm interested in Machine Learning and activly learning to code in Julia at the moment. 
+I'm interested in Machine Learning and actively learning to code in Julia at the moment. 
 I'm also quite interested in creating visualizaions for some of my favorite math subjects. 
-Currently, I am working on polishing up some dusty personal projects so that the world can see them!
+Currently, I am working on polishing up some dusty 🧹 personal projects so that the world can see them!
 
 If its looking a bit bare around here it's because the largest of my coding endevours have been for other organizations and/or the government 😅.
 
