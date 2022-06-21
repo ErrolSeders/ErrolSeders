@@ -1,7 +1,7 @@
 # Hello & Welcome to my GitHub! 
-## Feel free to poke around 🐙.
+## Feel free to poke around.
 
-Errol here! I'm a recent graduate in Computer Science and Mathematics from Whitman College.
+I'm a recent graduate in Computer Science and Mathematics from Whitman College.
 I've been interested in Machine Learning and am actively learning Julia at the moment
 I'm also quite interested in creating visualizaions for some of my favorite math subjects. 
 Currently, I am working on polishing up some dusty 🧹 personal projects so that the world can see them!
