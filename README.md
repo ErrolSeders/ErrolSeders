@@ -1,4 +1,4 @@
-### Hello & Welcome to my GitHub! 
+# Hello & Welcome to my GitHub! 
 ## Feel free to poke around 🐙.
 
 Errol here! I'm a recent graduate in Computer Science and Mathematics from Whitman College.
